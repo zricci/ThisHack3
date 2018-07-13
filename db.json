@@ -1,0 +1,56 @@
+{
+
+  "UPSLoc": [
+
+
+ {
+
+   "Name" : "Manhattan South",
+
+   "Address" : "522 Greenwich St",
+
+   "City" : "New York",
+
+   "State" : "NY",
+
+   "Zip Code" : 10013
+
+ },
+
+ {
+
+   "Name" : "43rd Street",
+
+   "Address" : "601 W 43rd Street",
+
+   "City" : "New York",
+
+   "State" : "NY",
+
+   "Zip Code" : 10036
+
+ },
+
+ {
+
+   "Name" : "Chester",
+
+   "Address" : "1 Black Meadow Rd",
+
+   "City" : "Chester",
+
+   "State" : "NY",
+
+   "Zip Code" : 10918
+
+ }
+
+  ],
+
+  "profile": {
+
+    "name": "typicode"
+
+  }
+
+}
